@@ -1,22 +1,129 @@
-# 💫 About Me:
-🔭 I'm currently working on **AI-powered DevOps automation tools** and **enhancing cloud infrastructure at Nationale-Nederlanden**<br>👯 I'm looking to collaborate on **open-source AI/ML projects, cloud automation tools, and innovative DevOps solutions**<br>🤝 I'm looking for help with **scaling AI-driven automation systems and exploring multi-cloud architectures**<br>🌱 I'm currently learning **advanced Kubernetes patterns, AI/ML operations (MLOps), and serverless architectures**<br>💬 Ask me about **AWS cloud architecture, CI/CD pipelines, Terraform IaC, Spring Boot microservices, or AI integration in DevOps**<br>⚡ Fun fact **I built ClaudeNightsWatch (324⭐) that automates tasks while you sleep - literally turning downtime into productive time!**
+# Hi there, I'm Aniket Karne 👋
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aniketkarne/)
+[![Website](https://img.shields.io/badge/Website-aniketkarne.com-green?style=flat&logo=google-chrome)](https://aniketkarne.com)
+[![Email](https://img.shields.io/badge/Email-aniketkarne%40hotmail.com-red?style=flat&logo=gmail)](mailto:aniketkarne@hotmail.com)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aniketkarne) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@aniketkarne) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aniketkarne@hotmail.com) 
+## 🚀 About Me
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Alpine.js](https://img.shields.io/badge/alpinejs-white.svg?style=for-the-badge&logo=alpinedotjs&logoColor=%238BC0D0) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![ArangoDB](https://img.shields.io/badge/ArangoDB-DDE072?style=for-the-badge&logo=arangodb&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![CloudBees](https://img.shields.io/badge/CloudBees-1997B5&?logo=cloudbees&logoColor=white&style=for-the-badge) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+DevOps & AI Engineer based in Amsterdam, Netherlands, with a passion for building tools that bridge AI, automation, and cloud operations. I specialize in creating intelligent systems that make developers' lives easier and organizations more efficient.
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aniketkarne&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=aniketkarne&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aniketkarne&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+- 🔭 Currently working as **Senior DevOps Engineer** at Nationale-Nederlanden
+- 🤖 Building AI-powered automation tools and DevOps utilities
+- 🌱 Exploring the intersection of AI/ML and Cloud Infrastructure
+- 💡 Open source enthusiast and contributor
+- 📍 Based in Amsterdam, Netherlands
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=aniketkarne&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 🛠️ Tech Stack
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=flat&logo=gitlab&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+
+### Programming Languages
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+
+### Frameworks & Tools
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
+
+## 🏆 Featured Projects
+
+### 🌙 [ClaudeNightsWatch](https://github.com/aniketkarne/ClaudeNightsWatch)
+![Stars](https://img.shields.io/github/stars/aniketkarne/ClaudeNightsWatch?style=social)
+![Forks](https://img.shields.io/github/forks/aniketkarne/ClaudeNightsWatch?style=social)
+
+Autonomous task execution system for Claude CLI that monitors your usage windows and executes predefined tasks automatically. Set it up once, and let it handle repetitive tasks during your Claude Code windows.
+
+**Tech Stack:** Shell, Claude CLI, Cron
 
 ---
-[![](https://visitcount.itsvg.in/api?id=aniketkarne&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🔄 [CCAutoRenew](https://github.com/aniketkarne/CCAutoRenew)
+![Stars](https://img.shields.io/github/stars/aniketkarne/CCAutoRenew?style=social)
+![Forks](https://img.shields.io/github/forks/aniketkarne/CCAutoRenew?style=social)
+
+Never miss a Claude Code renewal window again! Automated renewal system that keeps your Claude Code subscription active without manual intervention.
+
+**Tech Stack:** Shell, Automation
+
+---
+
+### 💰 [AI AWS Cloud Cost Analyzer](https://github.com/aniketkarne/AI-aws-cloud-cost-analyzer)
+Upload billing reports (CSV/Excel/PDF), store and aggregate costs in a local MySQL database, then ask natural-language questions to gain insights and optimization suggestions powered by AI.
+
+**Tech Stack:** TypeScript, MySQL, OpenAI, AWS
+
+---
+
+### 📊 [AI-Powered Github Repo Analyzer](https://github.com/aniketkarne/AI-Powered-Github-Repo-Analyzer)
+Interactive tool to analyze GitHub profiles and repositories. Generates language breakdowns, star/fork trends, activity heatmaps, README quality scores, and actionable insights.
+
+**Tech Stack:** Python, FastAPI, React, OpenAI
+
+---
+
+### 🐳 [Docker-AIChat](https://github.com/aniketkarne/Docker-AIChat)
+Full-stack application demonstrating AI-driven Dockerfile analysis and optimization. Get intelligent suggestions to improve your Docker configurations.
+
+**Tech Stack:** TypeScript, Docker, AI
+
+## 📈 GitHub Stats
+
+<div align="center">
+  
+![Aniket's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aniketkarne&show_icons=true&theme=dark&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aniketkarne&layout=compact&theme=dark&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aniketkarne&theme=dark&hide_border=true)
+
+</div>
+
+## 🏅 Certifications
+
+- 🎖️ **AWS Certified Solutions Architect – Professional** (2023)
+- 🎖️ **AWS Certified Solutions Architect – Associate** (2021)
+
+## 💼 Professional Highlights
+
+- 🚀 Reduced deployment time by 50% through infrastructure automation
+- 🤖 Developed AI-driven incident classification system with 75% accuracy
+- 💰 Achieved 40% cost reduction through AWS optimization strategies
+- 👥 Led cloud migration initiatives enhancing system scalability
+- 📱 Published mobile apps with 1,000+ downloads and 4.5⭐ ratings
+
+## 📫 Let's Connect!
+
+I'm always interested in collaborating on innovative projects, especially those involving:
+- 🤖 AI/ML integration with DevOps
+- ☁️ Cloud infrastructure automation
+- 🔧 Developer productivity tools
+- 🌐 Open source initiatives
+
+Feel free to reach out:
+- 💼 [LinkedIn](https://www.linkedin.com/in/aniketkarne/)
+- 📧 [aniketkarne@hotmail.com](mailto:aniketkarne@hotmail.com)
+- 🌐 [aniketkarne.com](https://aniketkarne.com)
+
+---
+
+<div align="center">
+  
+### 💭 "Building tools that bridge AI, dev tooling, and Cloud Ops"
+
+![Profile Views](https://komarev.com/ghpvc/?username=aniketkarne&color=blueviolet&style=flat)
+
+</div>
