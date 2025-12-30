@@ -1,128 +1,76 @@
+
+- 📍 Amsterdam, Netherlands
+
 # Hi there, I'm Aniket Karne 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aniketkarne/)
-[![Website](https://img.shields.io/badge/Website-aniketkarne.com-green?style=flat&logo=google-chrome)](https://aniketkarne.com)
-[![Email](https://img.shields.io/badge/Email-aniketkarne%40hotmail.com-red?style=flat&logo=gmail)](mailto:aniketkarne@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aniketkarne/)
+[![Website](https://img.shields.io/badge/Website-aniketkarne.com-22c55e?style=flat&logo=google-chrome&logoColor=white)](https://aniketkarne.com)
+[![Email](https://img.shields.io/badge/Email-aniketkarne%40hotmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:aniketkarne@hotmail.com)
 
 ## 🚀 About Me
 
-DevOps & AI Engineer based in Amsterdam, Netherlands, with a passion for building tools that bridge AI, automation, and cloud operations. I specialize in creating intelligent systems that make developers' lives easier and organizations more efficient.
+DevOps & AI Engineer based in Amsterdam 🇳🇱 — I build systems that automate ops, integrate AI with cloud workflows, automate decision-making, and scale without babysitting and optimize real-world production environments.  
+My writing (https://aniketkarne.com) covers AWS architectures AI tooling, automation patterns, and cost optimization guides. 
 
-- 🔭 Currently working as **Senior DevOps Engineer** at Nationale-Nederlanden
-- 🤖 Building AI-powered automation tools and DevOps utilities
-- 🌱 Exploring the intersection of AI/ML and Cloud Infrastructure
-- 💡 Open source enthusiast and contributor
-- 📍 Based in Amsterdam, Netherlands
-
+- 🔭 Senior DevOps Engineer @ Nationale-Nederlanden
+- 🤖 Focused on AI + automation for DevOps and cloud ops
+- 🌱 Exploring advanced Kubernetes patterns, MLOps, serverless, and infra automation
+- 🌐 Open source contributor & blog author
 ## 🛠️ Tech Stack
 
-### Cloud & DevOps
+### ☁️ Cloud & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![EKS](https://img.shields.io/badge/EKS-FF9900?style=flat&logo=amazon-eks&logoColor=white)
+![ECS](https://img.shields.io/badge/ECS-FF9900?style=flat&logo=amazon-ecs&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
+
+### 🐳 Containers & CI/CD
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=flat&logo=gitlab&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FCA121?style=flat&logo=gitlab&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 
-### Programming Languages
+### 🧠 AI / Data / MLOps
+![Azure ML](https://img.shields.io/badge/Azure_ML-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=flat&logo=openai&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-000000?style=flat&logo=apache-kafka&logoColor=white)
+![SageMaker](https://img.shields.io/badge/SageMaker-FF4F8B?style=flat&logo=amazonsagemaker&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-F4AA41?style=flat&logo=mlflow&logoColor=black)
+![Kubeflow](https://img.shields.io/badge/Kubeflow-326CE5?style=flat&logo=kubeflow&logoColor=white)
+
+### 👨‍💻 Programming Languages
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 
-### Frameworks & Tools
+### 🧰 Frameworks & Platforms
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-ITSM-1DB954?style=flat)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 
-## 🏆 Featured Projects
-
-### 🌙 [ClaudeNightsWatch](https://github.com/aniketkarne/ClaudeNightsWatch)
-![Stars](https://img.shields.io/github/stars/aniketkarne/ClaudeNightsWatch?style=social)
-![Forks](https://img.shields.io/github/forks/aniketkarne/ClaudeNightsWatch?style=social)
-
-Autonomous task execution system for Claude CLI that monitors your usage windows and executes predefined tasks automatically. Set it up once, and let it handle repetitive tasks during your Claude Code windows.
-
-**Tech Stack:** Shell, Claude CLI, Cron
-
----
-
-### 🔄 [CCAutoRenew](https://github.com/aniketkarne/CCAutoRenew)
-![Stars](https://img.shields.io/github/stars/aniketkarne/CCAutoRenew?style=social)
-![Forks](https://img.shields.io/github/forks/aniketkarne/CCAutoRenew?style=social)
-
-Never miss a Claude Code renewal window again! Automated renewal system that keeps your Claude Code subscription active without manual intervention.
-
-**Tech Stack:** Shell, Automation
-
----
-
-### 💰 [AI AWS Cloud Cost Analyzer](https://github.com/aniketkarne/AI-aws-cloud-cost-analyzer)
-Upload billing reports (CSV/Excel/PDF), store and aggregate costs in a local MySQL database, then ask natural-language questions to gain insights and optimization suggestions powered by AI.
-
-**Tech Stack:** TypeScript, MySQL, OpenAI, AWS
-
----
-
-### 📊 [AI-Powered Github Repo Analyzer](https://github.com/aniketkarne/AI-Powered-Github-Repo-Analyzer)
-Interactive tool to analyze GitHub profiles and repositories. Generates language breakdowns, star/fork trends, activity heatmaps, README quality scores, and actionable insights.
-
-**Tech Stack:** Python, FastAPI, React, OpenAI
-
----
-
-### 🐳 [Docker-AIChat](https://github.com/aniketkarne/Docker-AIChat)
-Full-stack application demonstrating AI-driven Dockerfile analysis and optimization. Get intelligent suggestions to improve your Docker configurations.
-
-**Tech Stack:** TypeScript, Docker, AI
 
 ## 📈 GitHub Stats
 
 <div align="center">
-  
-![Aniket's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aniketkarne&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aniketkarne&layout=compact&theme=dark&hide_border=true)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aniketkarne&theme=github_dark)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aniketkarne&theme=dark&hide_border=true)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aniketkarne&theme=github_dark)
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=aniketkarne&theme=dark&hide_border=true)
 
 </div>
 
-## 🏅 Certifications
-
-- 🎖️ **AWS Certified Solutions Architect – Professional** (2023)
-- 🎖️ **AWS Certified Solutions Architect – Associate** (2021)
-
-## 💼 Professional Highlights
-
-- 🚀 Reduced deployment time by 50% through infrastructure automation
-- 🤖 Developed AI-driven incident classification system with 75% accuracy
-- 💰 Achieved 40% cost reduction through AWS optimization strategies
-- 👥 Led cloud migration initiatives enhancing system scalability
-- 📱 Published mobile apps with 1,000+ downloads and 4.5⭐ ratings
-
-## 📫 Let's Connect!
-
-I'm always interested in collaborating on innovative projects, especially those involving:
-- 🤖 AI/ML integration with DevOps
-- ☁️ Cloud infrastructure automation
-- 🔧 Developer productivity tools
-- 🌐 Open source initiatives
-
-Feel free to reach out:
-- 💼 [LinkedIn](https://www.linkedin.com/in/aniketkarne/)
-- 📧 [aniketkarne@hotmail.com](mailto:aniketkarne@hotmail.com)
-- 🌐 [aniketkarne.com](https://aniketkarne.com)
-
----
-
 <div align="center">
-  
-### 💭 "Building tools that bridge AI, dev tooling, and Cloud Ops"
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aniketkarne&color=blueviolet&style=flat)
 
