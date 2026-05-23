@@ -14,8 +14,8 @@
 DevOps & AI Engineer based in Amsterdam 🇳🇱 — I build systems that automate ops, integrate AI with cloud workflows, automate decision-making, and scale without babysitting and optimize real-world production environments.  
 My writing (https://aniketkarne.com) & (https://aniketkarneAI.com) covers AWS architectures AI tooling, automation patterns, and cost optimization guides. 
 
-- 🔭 Senior DevOps Engineer @ Nationale-Nederlanden
-- 🤖 Focused on AI + automation for DevOps and cloud ops
+- 🔭 Senior AI Engineer @ Nationale-Nederlanden
+- 🤖 Focused on AI + Agentic automation for DevOps and cloud ops
 - 🌱 Exploring advanced Kubernetes patterns, MLOps, serverless, and infra automation
 - 🌐 Open source contributor & blog author
 ## 🛠️ Tech Stack
