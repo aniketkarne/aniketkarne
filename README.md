@@ -5,7 +5,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aniketkarne/)
 [![Website](https://img.shields.io/badge/Website-aniketkarne.com-22c55e?style=flat&logo=google-chrome&logoColor=white)](https://aniketkarne.com)
-[![Website](https://img.shields.io/badge/Website-aniketkarne.com-22c55e?style=flat&logo=google-chrome&logoColor=white)](https://aniketkarneai.com)
+[![Website](https://img.shields.io/badge/Website-aniketkarneai.com-22c55e?style=flat&logo=google-chrome&logoColor=white)](https://aniketkarneai.com)
 
 [![Email](https://img.shields.io/badge/Email-aniketkarne%40hotmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:aniketkarne@hotmail.com)
 
